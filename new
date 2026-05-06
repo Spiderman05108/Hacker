@@ -1,0 +1,55 @@
+#EXTM3U
+
+# ===== ENTERTAINMENT =====
+#EXTINF:-1 tvg-id="ZeeTV.in" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0f/Zee_TV_Logo.png" group-title="Entertainment",Zee TV HD
+https://sflex07.fun/SFA/ZEE_TV_HD.m3u8
+#EXTINF:-1 tvg-id="StarBharat.in" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8e/Star_Bharat_Logo.png" group-title="Entertainment",Star Bharat HD
+https://sflex07.fun/SFA/STAR_BHARAT_HD.m3u8
+#EXTINF:-1 tvg-id="StarPlus.in" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/75/StarPlus_Logo.png" group-title="Entertainment",Star Plus HD
+https://sflex07.fun/SFA/STAR_PLUS_HD.m3u8
+#EXTINF:-1 tvg-id="SonySET.in" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Sony_Entertainment_Television_logo.png" group-title="Entertainment",Sony Entertainment TV HD
+https://sflex07.fun/SFA/SET_HD.m3u8
+#EXTINF:-1 tvg-id="SonySAB.in" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5a/Sony_SAB_logo.png" group-title="Entertainment",Sony SAB HD
+https://sflex07.fun/SFA/SONY_SAB_HD.m3u8
+#EXTINF:-1 tvg-id="SonyPal.in" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/3f/Sony_Pal.png" group-title="Entertainment",Sony Pal
+https://sflex07.fun/SFA/SONY_PAL.m3u8
+#EXTINF:-1 tvg-id="Colors.in" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/50/Colors_TV_logo.png" group-title="Entertainment",Colors HD
+https://sflex07.fun/SFA/COLORS_HD.m3u8
+#EXTINF:-1 tvg-id="AndTV.in" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0b/And_TV_logo.png" group-title="Entertainment",&TV HD
+https://sflex07.fun/SFA/AND_TV_HD.m3u8
+#EXTINF:-1 tvg-id="ZeeAnmol.in" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/9d/Zee_Anmol_logo.png" group-title="Entertainment",Zee Anmol
+https://sflex07.fun/SFA/ZEE_ANMOL.m3u8
+
+# ===== KIDS =====
+#EXTINF:-1 tvg-id="SonyYAY.in" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f5/Sony_Yay_logo.png" group-title="Kids",Sony YAY
+https://sflex07.fun/SFA/SONY_YAY.m3u8
+#EXTINF:-1 tvg-id="Pogo.in" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/16/Pogo_TV_logo.png" group-title="Kids",Pogo
+https://sflex07.fun/SFA/POGO.m3u8
+#EXTINF:-1 tvg-id="DisneyChannel.in" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Disney_Channel_logo.svg" group-title="Kids",Disney Channel
+https://sflex07.fun/SFA/DISNEY_CHANNEL.m3u8
+#EXTINF:-1 tvg-id="Nick.in" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/15/Nick_India_logo.png" group-title="Kids",Nick HD+
+https://sflex07.fun/SFA/NICK_HD_PLUS.m3u8
+#EXTINF:-1 tvg-id="CartoonNetwork.in" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0c/Cartoon_Network_2010_logo.svg" group-title="Kids",Cartoon Network
+https://sflex07.fun/SFA/CARTOON_NETWORK.m3u8
+#EXTINF:-1 tvg-id="DiscoveryKids.in" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5d/Discovery_Kids_India_logo.png" group-title="Kids",Discovery Kids
+https://sflex07.fun/SFA/DISCOVERY_KIDS.m3u8
+#EXTINF:-1 tvg-id="Hungama.in" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/91/Hungama_TV_logo.png" group-title="Kids",Hungama
+https://sflex07.fun/SFA/HUNGAMA.m3u8
+
+# ===== MOVIES =====
+#EXTINF:-1 tvg-id="ZeeCinema.in" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/86/Zee_Cinema_logo.png" group-title="Movies",Zee Cinema HD
+https://sflex07.fun/SFA/ZEE_CINEMA_HD.m3u8
+#EXTINF:-1 tvg-id="StarGold.in" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4d/Star_Gold_logo.png" group-title="Movies",Star Gold HD
+https://sflex07.fun/SFA/STAR_GOLD_HD.m3u8
+#EXTINF:-1 tvg-id="SonyMAX.in" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6a/Sony_Max_logo.png" group-title="Movies",Sony MAX HD
+https://sflex07.fun/SFA/SONY_MAX_HD.m3u8
+#EXTINF:-1 tvg-id="SonyPIX.in" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/59/Sony_PIX_logo.png" group-title="Movies",Sony PIX HD
+https://sflex07.fun/SFA/SONY_PIX_HD.m3u8
+
+# ===== SPORTS =====
+#EXTINF:-1 tvg-id="StarSports1.in" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/83/Star_Sports_1_logo.png" group-title="Sports",Star Sports 1 HD
+https://sflex07.fun/SFA/STAR_SPORTS_1_HD.m3u8
+#EXTINF:-1 tvg-id="StarSportsHindi.in" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/83/Star_Sports_1_logo.png" group-title="Sports",Star Sports 1 Hindi
+https://sflex07.fun/SFA/STAR_SPORTS_1_HINDI.m3u8
+#EXTINF:-1 tvg-id="SonyTen1.in" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f1/Sony_Sports_Ten_1.png" group-title="Sports",Sony Sports Ten 1 HD
+https://sflex07.fun/SFA/SONY_SPORTS_TEN_1_HD.m3u8
