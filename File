@@ -1,0 +1,215 @@
+#EXTM3U
+
+# ===== ENTERTAINMENT =====
+#EXTINF:-1 group-title="Entertainment",Zee TV HD
+https://sflex07.fun/SFA/ZEE_TV_HD.m3u8
+#EXTINF:-1 group-title="Entertainment",Star Bharat HD
+https://sflex07.fun/SFA/STAR_BHARAT_HD.m3u8
+#EXTINF:-1 group-title="Entertainment",Star Plus HD
+https://sflex07.fun/SFA/STAR_PLUS_HD.m3u8
+#EXTINF:-1 group-title="Entertainment",SET HD
+https://sflex07.fun/SFA/SET_HD.m3u8
+#EXTINF:-1 group-title="Entertainment",Sony SAB HD
+https://sflex07.fun/SFA/SONY_SAB_HD.m3u8
+#EXTINF:-1 group-title="Entertainment",Sony Pal
+https://sflex07.fun/SFA/SONY_PAL.m3u8
+#EXTINF:-1 group-title="Entertainment",Colors HD
+https://sflex07.fun/SFA/COLORS_HD.m3u8
+#EXTINF:-1 group-title="Entertainment",&TV HD
+https://sflex07.fun/SFA/AND_TV_HD.m3u8
+#EXTINF:-1 group-title="Entertainment",Big Magic
+https://sflex07.fun/SFA/BIG_MAGIC.m3u8
+#EXTINF:-1 group-title="Entertainment",EPIC
+https://sflex07.fun/SFA/EPIC.m3u8
+#EXTINF:-1 group-title="Entertainment",Zee Anmol
+https://sflex07.fun/SFA/ZEE_ANMOL.m3u8
+
+# ===== KIDS =====
+#EXTINF:-1 group-title="Kids",Sony YAY
+https://sflex07.fun/SFA/SONY_YAY.m3u8
+#EXTINF:-1 group-title="Kids",Pogo
+https://sflex07.fun/SFA/POGO.m3u8
+#EXTINF:-1 group-title="Kids",Disney Channel
+https://sflex07.fun/SFA/DISNEY_CHANNEL.m3u8
+#EXTINF:-1 group-title="Kids",Nick HD+
+https://sflex07.fun/SFA/NICK_HD_PLUS.m3u8
+#EXTINF:-1 group-title="Kids",Cartoon Network
+https://sflex07.fun/SFA/CARTOON_NETWORK.m3u8
+#EXTINF:-1 group-title="Kids",Discovery Kids
+https://sflex07.fun/SFA/DISCOVERY_KIDS.m3u8
+#EXTINF:-1 group-title="Kids",Hungama
+https://sflex07.fun/SFA/HUNGAMA.m3u8
+#EXTINF:-1 group-title="Kids",Shinchan Hindi
+https://sflex07.fun/SFA/SHINCHAN_HINDI.m3u8
+#EXTINF:-1 group-title="Kids",Doraemon Hindi
+https://sflex07.fun/SFA/DORAEMON_HINDI.m3u8
+
+# ===== MOVIES =====
+#EXTINF:-1 group-title="Movies",Zee Cinema HD
+https://sflex07.fun/SFA/ZEE_CINEMA_HD.m3u8
+#EXTINF:-1 group-title="Movies",Star Gold HD
+https://sflex07.fun/SFA/STAR_GOLD_HD.m3u8
+#EXTINF:-1 group-title="Movies",Sony MAX HD
+https://sflex07.fun/SFA/SONY_MAX_HD.m3u8
+#EXTINF:-1 group-title="Movies",Sony PIX HD
+https://sflex07.fun/SFA/SONY_PIX_HD.m3u8
+#EXTINF:-1 group-title="Movies",Star Gold Thrills
+https://sflex07.fun/SFA/STAR_GOLD_THRILLS.m3u8
+#EXTINF:-1 group-title="Movies",Movies Now HD
+https://sflex07.fun/SFA/MOVIES_NOW_HD.m3u8
+
+# ===== INFOTAINMENT =====
+#EXTINF:-1 group-title="Infotainment",Sony BBC Earth HD
+https://sflex07.fun/SFA/SONY_BBC_EARTH_HD.m3u8
+#EXTINF:-1 group-title="Infotainment",Discovery HD World
+https://sflex07.fun/SFA/DISCOVERY_HD_WORLD.m3u8
+#EXTINF:-1 group-title="Infotainment",History TV18 HD
+https://sflex07.fun/SFA/HISTORY_TV18_HD.m3u8
+#EXTINF:-1 group-title="Infotainment",Nat Geo Wild HD
+https://sflex07.fun/SFA/NAT_GEO_WILD_HD.m3u8
+
+# ===== SPORTS =====
+#EXTINF:-1 group-title="Sports",Star Sports 1 HD
+https://sflex07.fun/SFA/STAR_SPORTS_1_HD.m3u8
+#EXTINF:-1 group-title="Sports",Star Sports 1 Hindi
+https://sflex07.fun/SFA/STAR_SPORTS_1_HINDI.m3u8
+#EXTINF:-1 group-title="Sports",Sony Sports Ten 1 HD
+https://sflex07.fun/SFA/SONY_SPORTS_TEN_1_HD.m3u8
+
+# ===== REGIONAL (SOUTH + OTHERS) =====
+#EXTINF:-1 group-title="Regional",Star Jalsha HD
+https://sflex07.fun/SFA/STAR_JALSHA_HD.m3u8
+#EXTINF:-1 group-title="Regional",Zee Kannada HD
+https://sflex07.fun/SFA/ZEE_KANNADA_HD.m3u8
+#EXTINF:-1 group-title="Regional",Colors Marathi HD
+https://sflex07.fun/SFA/COLORS_MARATHI_HD.m3u8
+#EXTINF:-1 group-title="Regional",Zee Telugu HD
+https://sflex07.fun/SFA/ZEE_TELUGU_HD.m3u8
+#EXTINF:-1 group-title="Regional",Star Maa HD
+https://sflex07.fun/SFA/STAR_MAA_HD.m3u8
+
+# ===== SPECIAL =====
+#EXTINF:-1 group-title="Special",Airtel Miniplex
+https://sflex07.fun/SFA/AIRTEL_MINIPLEX.m3u8
+#EXTM3U
+
+#EXTINF:-1,Jalsha Movies
+https://sflex07.fun/SFA/JALSHA_MOVIES.m3u8
+#EXTINF:-1,Star Jalsha HD
+https://sflex07.fun/SFA/STAR_JALSHA_HD.m3u8
+#EXTINF:-1,Alankar
+https://sflex07.fun/SFA/ALANKAR.m3u8
+#EXTINF:-1,Colors Kannada HD
+https://sflex07.fun/SFA/COLORS_KANNADA_HD.m3u8
+#EXTINF:-1,Colors Kannada Cinema
+https://sflex07.fun/SFA/COLORS_KANNADA_CINEMA.m3u8
+#EXTINF:-1,Colors Super
+https://sflex07.fun/SFA/COLORS_SUPER.m3u8
+#EXTINF:-1,Raj Musix
+https://sflex07.fun/SFA/RAJ_MUSIX.m3u8
+#EXTINF:-1,Star Suvarna HD
+https://sflex07.fun/SFA/STAR_SUVARNA_HD.m3u8
+#EXTINF:-1,Star Suvarna
+https://sflex07.fun/SFA/STAR_SUVARNA.m3u8
+#EXTINF:-1,Udaya HD
+https://sflex07.fun/SFA/UDAYA_HD.m3u8
+#EXTINF:-1,Udaya Comedy
+https://sflex07.fun/SFA/UDAYA_COMEDY.m3u8
+#EXTINF:-1,Udaya Movies
+https://sflex07.fun/SFA/UDAYA_MOVIES.m3u8
+#EXTINF:-1,DD Chandana
+https://sflex07.fun/SFA/DD_CHANDANA.m3u8
+#EXTINF:-1,Public TV
+https://sflex07.fun/SFA/PUBLIC_TV.m3u8
+#EXTINF:-1,Zee Kannada HD
+https://sflex07.fun/SFA/ZEE_KANNADA_HD.m3u8
+
+#EXTINF:-1,Colors Marathi HD
+https://sflex07.fun/SFA/COLORS_MARATHI_HD.m3u8
+#EXTINF:-1,Sony Marathi
+https://sflex07.fun/SFA/SONY_MARATHI.m3u8
+#EXTINF:-1,Sony Aath
+https://sflex07.fun/SFA/SONY_AATH.m3u8
+#EXTINF:-1,DD Sahyadri
+https://sflex07.fun/SFA/DD_SAHYADRI.m3u8
+#EXTINF:-1,TV9 Marathi
+https://sflex07.fun/SFA/TV9_MARATHI.m3u8
+#EXTINF:-1,Fakt Marathi
+https://sflex07.fun/SFA/FAKT_MARATHI.m3u8
+
+#EXTINF:-1,Chardikla Time TV
+https://sflex07.fun/SFA/CHARDIKLA_TIME_TV.m3u8
+#EXTINF:-1,DD Punjabi
+https://sflex07.fun/SFA/DD_PUNJABI.m3u8
+#EXTINF:-1,Fateh TV
+https://sflex07.fun/SFA/FATEH_TV.m3u8
+#EXTINF:-1,India News Punjab
+https://sflex07.fun/SFA/INDIA_NEWS_PUNJAB.m3u8
+#EXTINF:-1,MH One Shraddha
+https://sflex07.fun/SFA/MH_ONE_SHRADDHA.m3u8
+#EXTINF:-1,Pitaara
+https://sflex07.fun/SFA/PITAARA.m3u8
+#EXTINF:-1,PTC Punjabi
+https://sflex07.fun/SFA/PTC_PUNJABI.m3u8
+#EXTINF:-1,PTC Simran
+https://sflex07.fun/SFA/PTC_SIMRAN.m3u8
+#EXTINF:-1,Zee Punjabi
+https://sflex07.fun/SFA/ZEE_PUNJABI.m3u8
+
+#EXTINF:-1,Bhakti TV
+https://sflex07.fun/SFA/BHAKTI_TV.m3u8
+#EXTINF:-1,ETV Cinema
+https://sflex07.fun/SFA/ETV_CINEMA.m3u8
+#EXTINF:-1,Gemini Comedy
+https://sflex07.fun/SFA/GEMINI_COMEDY.m3u8
+#EXTINF:-1,Star Maa Movies HD
+https://sflex07.fun/SFA/STAR_MAA_MOVIES_HD.m3u8
+#EXTINF:-1,Star Maa Gold
+https://sflex07.fun/SFA/STAR_MAA_GOLD.m3u8
+#EXTINF:-1,Star Maa HD
+https://sflex07.fun/SFA/STAR_MAA_HD.m3u8
+#EXTINF:-1,VTV News
+https://sflex07.fun/SFA/VTV_NEWS.m3u8
+#EXTINF:-1,ETV Plus
+https://sflex07.fun/SFA/ETV_PLUS.m3u8
+#EXTINF:-1,Zee Cinemalu HD
+https://sflex07.fun/SFA/ZEE_CINEMALU_HD.m3u8
+#EXTINF:-1,Zee Telugu HD
+https://sflex07.fun/SFA/ZEE_TELUGU_HD.m3u8
+#EXTINF:-1,Gemini Life
+https://sflex07.fun/SFA/GEMINI_LIFE.m3u8
+#EXTINF:-1,ETV Life
+https://sflex07.fun/SFA/ETV_LIFE.m3u8
+#EXTINF:-1,TV5 News
+https://sflex07.fun/SFA/TV5_NEWS.m3u8
+#EXTINF:-1,10 TV
+https://sflex07.fun/SFA/10_TV.m3u8
+#EXTINF:-1,DD Saptagiri
+https://sflex07.fun/SFA/DD_SAPTAGIRI.m3u8
+#EXTINF:-1,Vissa TV
+https://sflex07.fun/SFA/VISSA_TV.m3u8
+#EXTINF:-1,Star Maa
+https://sflex07.fun/SFA/STAR_MAA.m3u8
+
+#EXTINF:-1,Star Sports 1 HD
+https://sflex07.fun/SFA/STAR_SPORTS_1_HD.m3u8
+#EXTINF:-1,Star Sports 1 Hindi
+https://sflex07.fun/SFA/STAR_SPORTS_1_HINDI.m3u8
+#EXTINF:-1,Star Sports 2 HD
+https://sflex07.fun/SFA/STAR_SPORTS_2_HD.m3u8
+#EXTINF:-1,Star Sports 3
+https://sflex07.fun/SFA/STAR_SPORTS_3.m3u8
+#EXTINF:-1,Star Sports Select 1 HD
+https://sflex07.fun/SFA/STAR_SPORTS_SELECT_1_HD.m3u8
+#EXTINF:-1,Star Sports Select 2 HD
+https://sflex07.fun/SFA/STAR_SPORTS_SELECT_2_HD.m3u8
+#EXTINF:-1,Sony Sports Ten 1 HD
+https://sflex07.fun/SFA/SONY_SPORTS_TEN_1_HD.m3u8
+#EXTINF:-1,Sony Sports Ten 2 HD
+https://sflex07.fun/SFA/SONY_SPORTS_TEN_2_HD.m3u8
+#EXTINF:-1,Sony Sports Ten 3 HD
+https://sflex07.fun/SFA/SONY_SPORTS_TEN_3_HD.m3u8
+#EXTINF:-1,Sony Sports Ten 5 HD
+https://sflex07.fun/SFA/SONY_SPORTS_TEN_5_HD.m3u8
+#EXTINF:-1,Star Sports 2 Tamil
+https://sflex07.fun/SFA/STAR_SPORTS_2_TAMIL.m3u8
